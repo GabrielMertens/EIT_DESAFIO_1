@@ -27,7 +27,7 @@ Entregables
 El código fuente del pipeline de Jenkins está publicado en un repositorio de Github.
 
 
-GUA DE USO
+# GUA DE USO
 
 # Jenkins Pipeline para Crear Usuarios en Linux
 
