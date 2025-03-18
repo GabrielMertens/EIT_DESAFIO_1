@@ -9,8 +9,11 @@ El área de seguridad de la empresa es responsable de gestionar la creación y b
 Requisitos del Pipeline
 
 El operador de seguridad debe proporcionar los siguientes datos para crear un usuario:
-Dato	                Descripción
-Login	                Identificador único compuesto por el nombre y apellido del usuario.
+Dato	                
+
+Descripción: 
+Login	                
+Identificador único compuesto por el nombre y apellido del usuario.
 Nombre y Apellido	Nombre completo del usuario.
 Departamento	        Grupo al que pertenece el usuario. Los grupos disponibles son: contabilidad, finanzas y tecnología. En caso de que no exista lo vamos a crear. 
 
