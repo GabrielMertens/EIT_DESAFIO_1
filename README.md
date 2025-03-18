@@ -1,4 +1,5 @@
 Objetivo del Desafío
+
 El objetivo de este desafío es desarrollar un pipeline declarativo en Jenkins que permita automatizar la creación de usuarios en un sistema Linux. Este pipeline debe ser capaz de tomar datos de entrada, generar contraseñas temporales y facilitar la gestión de usuarios para el área de seguridad de la empresa.
 
 Escenario
